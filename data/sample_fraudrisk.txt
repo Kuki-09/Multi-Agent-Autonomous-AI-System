@@ -1,0 +1,12 @@
+Subject: Urgent Attention Required – Suspicious Financial Activity Detected
+
+Dear Risk Management Team,
+
+Our internal monitoring system has flagged multiple high-value transactions made from user account ID 87451 during non-business hours. The payment amounts significantly exceed the normal range and were routed to unverified foreign bank accounts.
+Additionally, there were unauthorized changes made to user profile details just before the transactions occurred.
+We suspect fraudulent behavior and request an immediate freeze on the account and a forensic audit.
+
+Sincerely,  
+Ankit Mehra  
+Fraud Analyst  
+Axis CreditCorp

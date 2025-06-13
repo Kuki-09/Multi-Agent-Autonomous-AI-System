@@ -1,0 +1,26 @@
+{
+    "sender_name": "Emma Johnson",
+    "company": "Acme Supplies Ltd.",
+    "email": "emma.johnson@acmesupplies.com",
+    "request_type": "Invoice",
+    "invoice_number": "INV-2025-0012",
+    "items": [
+      {
+        "product_id": "A1001",
+        "description": "Office Chair",
+        "quantity": 5,
+        "unit_price": 120.00
+      },
+      {
+        "product_id": "A1002",
+        "description": "Standing Desk",
+        "quantity": 3,
+        "unit_price": 320.00
+      }
+    ],
+    "total_amount": 1560.00,
+    "currency": "USD",
+    "submission_date": "2025-06-10",
+    "urgency": "Medium"
+  }
+  

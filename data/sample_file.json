@@ -1,0 +1,23 @@
+{
+    "sender_name": "Alice Smith",
+    "company": "Global Tech Solutions",
+    "email": "alice.smith@globaltech.com",
+    "request_type": "RFQ",
+    "items": [
+      {
+        "product_id": "P10045",
+        "description": "Industrial Sensor",
+        "quantity": 10,
+        "unit_price": 79.99
+      },
+      {
+        "product_id": "P10046",
+        "description": "Smart Controller",
+        "quantity": null,
+        "unit_price": 149.99
+      }
+    ],
+    "urgency": "High",
+    "submission_date": "2025-05-27"
+  }
+  
